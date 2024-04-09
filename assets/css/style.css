@@ -1260,3 +1260,6 @@ section {
 .bi-list::before{
   color: #fff;
 }
+div#loom-companion-mv3 {
+    display: none;
+}
